@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (.NET Application)">b90d09931b8319107221877ddc4bcba7</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (.NET Application)</name>
+        <order/>
+        <parent>fd0d09931b8319107221877ddc4bcb8c</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:23</sys_created_on>
+        <sys_id>7d0d09931b8319107221877ddc4bcbb0</sys_id>
+        <sys_name>New (.NET Application)</sys_name>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7d0d09931b8319107221877ddc4bcbb0</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7d0d09931b8319107221877ddc4bcbb0"/>
+</record_update>

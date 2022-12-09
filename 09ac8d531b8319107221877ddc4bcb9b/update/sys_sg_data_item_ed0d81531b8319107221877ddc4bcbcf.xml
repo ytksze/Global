@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>New App .NET Application</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:21</sys_created_on>
+        <sys_id>ed0d81531b8319107221877ddc4bcbcf</sys_id>
+        <sys_name>New App .NET Application</sys_name>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_data_item_ed0d81531b8319107221877ddc4bcbcf</sys_update_name>
+        <table>cmdb_ci_appl_dot_net</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed0d81531b8319107221877ddc4bcbcf"/>
+</record_update>

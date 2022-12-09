@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>New App</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:21</sys_created_on>
+        <sys_id>610d81531b8319107221877ddc4bcbce</sys_id>
+        <sys_name>New App</sys_name>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_610d81531b8319107221877ddc4bcbce</sys_update_name>
+        <title>New App</title>
+    </sys_sg_applet_launcher>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> .NET Application</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">190d81531b8319107221877ddc4bcbcd</icon>
+        <name>.NET Applications</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:22</sys_created_on>
+        <sys_id>fd0d09931b8319107221877ddc4bcb8c</sys_id>
+        <sys_name>.NET Applications</sys_name>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_list_screen_fd0d09931b8319107221877ddc4bcb8c</sys_update_name>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd0d09931b8319107221877ddc4bcb8c"/>
+</record_update>

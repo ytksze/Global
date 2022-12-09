@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="New App">ed0d81531b8319107221877ddc4bcbce</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:23</sys_created_on>
+        <sys_id>460d09931b8319107221877ddc4bcbc4</sys_id>
+        <sys_name/>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_460d09931b8319107221877ddc4bcbc4</sys_update_name>
+    </sys_sg_navigation_tab_map>
+</record_update>

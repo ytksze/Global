@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value=".NET Application Item Stream">f90d09931b8319107221877ddc4bcb8f</item_stream>
+        <segment display_value=".NET Application Item Stream Segment">310d09931b8319107221877ddc4bcb8f</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 02:59:22</sys_created_on>
+        <sys_id>f10d09931b8319107221877ddc4bcb90</sys_id>
+        <sys_name/>
+        <sys_package display_value="New App" source="x_921453_new_app">09ac8d531b8319107221877ddc4bcb9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App">09ac8d531b8319107221877ddc4bcb9b</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_f10d09931b8319107221877ddc4bcb90</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
